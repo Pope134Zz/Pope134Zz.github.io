@@ -631,9 +631,9 @@ footer {
 */
 
 #projects {
-    padding: 25px 15px;
+    padding: 50px 15px;
     border-bottom: 1px solid $border;
-    text-align: absolute;
+    text-align: center;
 
     h2 {
         color: $heading;
@@ -643,7 +643,7 @@ footer {
 
 .project {
     position: absolute;
-    max-width: 900px;
+    max-width: 300px; //900
     margin: 0 auto 30px auto;
     overflow: hidden;
     background: #fff;
